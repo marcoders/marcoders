@@ -8,9 +8,6 @@ My work sits between deep engineering and product creation: taking difficult tec
 
 I work across software engineering, cybersecurity, artificial intelligence, data and cloud-native systems, and I'm the founder of **[marcoderspace™ studio](https://marcoderspace.com/)**.
 
----
-
-[**marcoderspace™ studio**](https://marcoderspace.com/) ·
 [**Products**](https://products.marcoderspace.com/) ·
 [**Personal website**](https://markodabovic.com/) ·
 [**Lab**](https://root.marcoderspace.com/) ·
