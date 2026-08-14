@@ -256,14 +256,14 @@ I am interested in selected work involving:
 
 ## Find me
 
-[**markodabovic.com**](https://markodabovic.com/)  
-Personal website and professional profile.
-
 [**marcoderspace.com**](https://marcoderspace.com/)  
-Software studio.
+Software studio, commercial products, startups and specialist engineering.
 
 [**products.marcoderspace.com**](https://products.marcoderspace.com/)  
 Products, startups, initiatives and research.
+
+[**markodabovic.com**](https://markodabovic.com/)  
+Personal website and professional profile.
 
 [**root.marcoderspace.com**](https://root.marcoderspace.com/)  
 Lab, experiments and technical exploration.
