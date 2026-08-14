@@ -10,6 +10,14 @@ I work across software engineering, cybersecurity, artificial intelligence, data
 
 ---
 
+[**marcoderspace™ studio**](https://marcoderspace.com/) ·
+[**Products**](https://products.marcoderspace.com/) ·
+[**Personal website**](https://markodabovic.com/) ·
+[**Lab**](https://root.marcoderspace.com/) ·
+[**GitHub organization**](https://github.com/marcoderspace)
+
+---
+
 ## What I work on
 
 ### Products, startups & technical ventures
