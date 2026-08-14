@@ -1,12 +1,12 @@
-# Marko here.
+# Hi, I'm Marko.
 
-**Founder · Principal Engineer · PhD Candidate in Computer Science**
+Welcome to my GitHub.
 
-I build products, technical systems and research-driven technology across **software engineering, cybersecurity, artificial intelligence, data and cloud-native infrastructure**.
+I'm a founder, principal engineer and PhD candidate in Computer Science.
 
 My work sits between deep engineering and product creation: taking difficult technical problems from ambiguity and research through architecture, implementation, production and evolution.
 
-I am the founder and principal engineer behind **[marcoderspace™ studio](https://marcoderspace.com/)**.
+I work across software engineering, cybersecurity, artificial intelligence, data and cloud-native systems, and I'm the founder of **[marcoderspace™ studio](https://marcoderspace.com/)**.
 
 ---
 
